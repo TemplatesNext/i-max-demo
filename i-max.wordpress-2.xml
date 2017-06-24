@@ -367,7 +367,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/12/1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/12/1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/1.jpg]]></wp:meta_value>
@@ -398,7 +398,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/12/2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/12/2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/2.jpg]]></wp:meta_value>
@@ -429,7 +429,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/12/8.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/12/8.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/8.jpg]]></wp:meta_value>
@@ -460,7 +460,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/12/33.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/12/33.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/33.jpg]]></wp:meta_value>
@@ -491,7 +491,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/12/44.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/12/44.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/44.jpg]]></wp:meta_value>
@@ -522,7 +522,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/01/12.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/01/12.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/01/12.jpg]]></wp:meta_value>
@@ -553,7 +553,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/01/17.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/01/17.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/01/17.jpg]]></wp:meta_value>
@@ -584,7 +584,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/12/1601285.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/12/1601285.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/1601285.jpg]]></wp:meta_value>
@@ -615,7 +615,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/12/cute-asian-girl-21437.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/12/cute-asian-girl-21437.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/cute-asian-girl-21437.jpg]]></wp:meta_value>
@@ -646,7 +646,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/12/hs1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/12/hs1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/hs1.jpg]]></wp:meta_value>
@@ -677,7 +677,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/12/hs5.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/12/hs5.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/hs5.jpg]]></wp:meta_value>
@@ -708,7 +708,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/01/i-create-logo.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/01/i-create-logo.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/i-create-logo.png]]></wp:meta_value>
@@ -739,7 +739,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/01/i-create-logo1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/01/i-create-logo1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/i-create-logo1.png]]></wp:meta_value>
@@ -770,7 +770,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/01/pat9.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/01/pat9.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/pat9.png]]></wp:meta_value>
@@ -801,7 +801,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/01/patt1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/01/patt1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/patt1.png]]></wp:meta_value>
@@ -832,7 +832,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/01/patt2.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/01/patt2.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/patt2.png]]></wp:meta_value>
@@ -863,7 +863,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/01/patt10.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/01/patt10.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/patt10.png]]></wp:meta_value>
@@ -894,7 +894,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/01/i-create-logo-2.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/01/i-create-logo-2.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/i-create-logo-2.png]]></wp:meta_value>
@@ -925,7 +925,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/01/i-create-logo-5.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/01/i-create-logo-5.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/i-create-logo-5.png]]></wp:meta_value>
@@ -956,7 +956,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/01/screen-1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/01/screen-1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/screen-1.png]]></wp:meta_value>
@@ -987,7 +987,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/01/orange-juice-569064_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/01/orange-juice-569064_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/01/orange-juice-569064_1920.jpg]]></wp:meta_value>
@@ -1018,7 +1018,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/01/model-600225_1280.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/01/model-600225_1280.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/01/model-600225_1280.jpg]]></wp:meta_value>
@@ -1049,7 +1049,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/03/screen.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/03/screen.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/03/screen.jpg]]></wp:meta_value>
@@ -1080,7 +1080,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/03/screen-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/03/screen-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/03/screen-2.jpg]]></wp:meta_value>
@@ -1111,7 +1111,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/02/i-spirit-banner-9.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/02/i-spirit-banner-9.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/02/i-spirit-banner-9.png]]></wp:meta_value>
@@ -1142,7 +1142,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/02/mock-1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/02/mock-1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/02/mock-1.png]]></wp:meta_value>
@@ -1173,7 +1173,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/04/promo-itransform.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/04/promo-itransform.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/promo-itransform.png]]></wp:meta_value>
@@ -1204,7 +1204,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/04/up-arr.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/04/up-arr.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/up-arr.png]]></wp:meta_value>
@@ -1235,7 +1235,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/04/up-arr-2.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/04/up-arr-2.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/up-arr-2.png]]></wp:meta_value>
@@ -1266,7 +1266,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2014/02/mock-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2014/02/mock-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/02/mock-1.jpg]]></wp:meta_value>
@@ -1297,7 +1297,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/04/slides1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/04/slides1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides1.jpg]]></wp:meta_value>
@@ -1328,7 +1328,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/04/slides2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/04/slides2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides2.jpg]]></wp:meta_value>
@@ -1359,7 +1359,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/04/slides3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/04/slides3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides3.jpg]]></wp:meta_value>
@@ -1390,7 +1390,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/04/slides4.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/04/slides4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides4.jpg]]></wp:meta_value>
@@ -1421,7 +1421,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/04/slides5.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/04/slides5.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides5.jpg]]></wp:meta_value>
@@ -1452,7 +1452,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/04/slides5b.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/04/slides5b.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides5b.jpg]]></wp:meta_value>
@@ -1483,7 +1483,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/01/cropped-i-create-logo-2.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/01/cropped-i-create-logo-2.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/cropped-i-create-logo-2.png]]></wp:meta_value>
@@ -1522,7 +1522,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/favicon.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/favicon.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/favicon.png]]></wp:meta_value>
@@ -1553,7 +1553,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/apple-841169_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/apple-841169_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/apple-841169_1920.jpg]]></wp:meta_value>
@@ -1584,7 +1584,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/book-841171_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/book-841171_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/book-841171_1920.jpg]]></wp:meta_value>
@@ -1615,7 +1615,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/business-1067978_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/business-1067978_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/business-1067978_1920.jpg]]></wp:meta_value>
@@ -1646,7 +1646,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/gifts-570821_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/gifts-570821_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/gifts-570821_1920.jpg]]></wp:meta_value>
@@ -1677,7 +1677,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/girl-200883_1280.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/girl-200883_1280.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl-200883_1280.jpg]]></wp:meta_value>
@@ -1708,7 +1708,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/girl-447708_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/girl-447708_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl-447708_1920.jpg]]></wp:meta_value>
@@ -1739,7 +1739,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/girl-1252739_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/girl-1252739_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl-1252739_1920.jpg]]></wp:meta_value>
@@ -1770,7 +1770,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/girl-1302707_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/girl-1302707_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl-1302707_1920.jpg]]></wp:meta_value>
@@ -1801,7 +1801,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/girl-1312954_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/girl-1312954_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl-1312954_1920.jpg]]></wp:meta_value>
@@ -1832,7 +1832,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/guitar-944261_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/guitar-944261_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/guitar-944261_1920.jpg]]></wp:meta_value>
@@ -1863,7 +1863,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/guitar-1139397_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/guitar-1139397_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/guitar-1139397_1920.jpg]]></wp:meta_value>
@@ -1894,7 +1894,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/heart-762564_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/heart-762564_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/heart-762564_1920.jpg]]></wp:meta_value>
@@ -1925,7 +1925,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/imac-606765_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/imac-606765_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/imac-606765_1920.jpg]]></wp:meta_value>
@@ -1956,7 +1956,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/macbook-606763_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/macbook-606763_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/macbook-606763_1920.jpg]]></wp:meta_value>
@@ -1987,7 +1987,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/mobile-605422_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/mobile-605422_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/mobile-605422_1920.jpg]]></wp:meta_value>
@@ -2018,7 +2018,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/patient-841165_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/patient-841165_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/patient-841165_1920.jpg]]></wp:meta_value>
@@ -2049,7 +2049,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/tablet-843798_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/tablet-843798_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/tablet-843798_1920.jpg]]></wp:meta_value>
@@ -2080,7 +2080,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/turntable-1337986_1280.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/turntable-1337986_1280.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/turntable-1337986_1280.jpg]]></wp:meta_value>
@@ -2111,7 +2111,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/woman-977020_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/woman-977020_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/woman-977020_1920.jpg]]></wp:meta_value>
@@ -2126,7 +2126,7 @@
 		<link>http://localhost/tx-demos/i-max/animals-1867018/</link>
 		<pubDate>Fri, 23 Jun 2017 16:56:14 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/animals-1867018.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/animals-1867018.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2142,7 +2142,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/animals-1867018.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/animals-1867018.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/animals-1867018.jpg]]></wp:meta_value>
@@ -2157,7 +2157,7 @@
 		<link>http://localhost/tx-demos/i-max/asia-1807528_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:56:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/asia-1807528_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/asia-1807528_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2173,7 +2173,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/asia-1807528_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/asia-1807528_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/asia-1807528_1920.jpg]]></wp:meta_value>
@@ -2188,7 +2188,7 @@
 		<link>http://localhost/tx-demos/i-max/asia-1807531_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:56:38 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/asia-1807531_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/asia-1807531_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2204,7 +2204,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/asia-1807531_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/asia-1807531_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/asia-1807531_1920.jpg]]></wp:meta_value>
@@ -2219,7 +2219,7 @@
 		<link>http://localhost/tx-demos/i-max/beach-1850197_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:56:45 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/beach-1850197_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/beach-1850197_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2235,7 +2235,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/beach-1850197_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/beach-1850197_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/beach-1850197_1920.jpg]]></wp:meta_value>
@@ -2250,7 +2250,7 @@
 		<link>http://localhost/tx-demos/i-max/beautiful-1868701_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:56:51 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/beautiful-1868701_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/beautiful-1868701_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2266,7 +2266,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/beautiful-1868701_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/beautiful-1868701_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/beautiful-1868701_1920.jpg]]></wp:meta_value>
@@ -2281,7 +2281,7 @@
 		<link>http://localhost/tx-demos/i-max/beautiful-girl-2003650_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:56:58 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/beautiful-girl-2003650_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/beautiful-girl-2003650_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2297,7 +2297,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/beautiful-girl-2003650_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/beautiful-girl-2003650_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/beautiful-girl-2003650_1920.jpg]]></wp:meta_value>
@@ -2312,7 +2312,7 @@
 		<link>http://localhost/tx-demos/i-max/beautiful-girl-looking-away-1995531_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:57:05 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/beautiful-girl-looking-away-1995531_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/beautiful-girl-looking-away-1995531_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2328,7 +2328,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/beautiful-girl-looking-away-1995531_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/beautiful-girl-looking-away-1995531_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/beautiful-girl-looking-away-1995531_1920.jpg]]></wp:meta_value>
@@ -2343,7 +2343,7 @@
 		<link>http://localhost/tx-demos/i-max/bikini-1807461_1920-1/</link>
 		<pubDate>Fri, 23 Jun 2017 16:57:12 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/bikini-1807461_1920-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/bikini-1807461_1920-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2359,7 +2359,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/bikini-1807461_1920-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/bikini-1807461_1920-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/bikini-1807461_1920-1.jpg]]></wp:meta_value>
@@ -2374,7 +2374,7 @@
 		<link>http://localhost/tx-demos/i-max/child-1245893/</link>
 		<pubDate>Fri, 23 Jun 2017 16:57:19 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/child-1245893.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/child-1245893.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2390,7 +2390,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/child-1245893.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/child-1245893.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/child-1245893.jpg]]></wp:meta_value>
@@ -2405,7 +2405,7 @@
 		<link>http://localhost/tx-demos/i-max/engagement-1718244_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:57:41 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/engagement-1718244_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/engagement-1718244_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2421,7 +2421,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/engagement-1718244_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/engagement-1718244_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/engagement-1718244_1920.jpg]]></wp:meta_value>
@@ -2436,7 +2436,7 @@
 		<link>http://localhost/tx-demos/i-max/fashion-1063100_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:57:48 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/fashion-1063100_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/fashion-1063100_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2452,7 +2452,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/fashion-1063100_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/fashion-1063100_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/fashion-1063100_1920.jpg]]></wp:meta_value>
@@ -2467,7 +2467,7 @@
 		<link>http://localhost/tx-demos/i-max/freelancer-763730_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:57:55 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/freelancer-763730_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/freelancer-763730_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2483,7 +2483,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/freelancer-763730_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/freelancer-763730_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/freelancer-763730_1920.jpg]]></wp:meta_value>
@@ -2498,7 +2498,7 @@
 		<link>http://localhost/tx-demos/i-max/itaparica-1829695_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:58:02 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/itaparica-1829695_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/itaparica-1829695_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2514,7 +2514,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/itaparica-1829695_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/itaparica-1829695_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/itaparica-1829695_1920.jpg]]></wp:meta_value>
@@ -2529,7 +2529,7 @@
 		<link>http://localhost/tx-demos/i-max/kids-1966202_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:58:08 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/kids-1966202_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/kids-1966202_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2545,7 +2545,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/kids-1966202_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/kids-1966202_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/kids-1966202_1920.jpg]]></wp:meta_value>
@@ -2560,7 +2560,7 @@
 		<link>http://localhost/tx-demos/i-max/water-747618_1920/</link>
 		<pubDate>Fri, 23 Jun 2017 16:58:15 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/water-747618_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/water-747618_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2576,7 +2576,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/water-747618_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/water-747618_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/water-747618_1920.jpg]]></wp:meta_value>
@@ -2591,7 +2591,7 @@
 		<link>http://localhost/tx-demos/i-max/woman-828886_1920-1/</link>
 		<pubDate>Fri, 23 Jun 2017 16:58:22 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/woman-828886_1920-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/woman-828886_1920-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2607,7 +2607,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/woman-828886_1920-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/woman-828886_1920-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/woman-828886_1920-1.jpg]]></wp:meta_value>
@@ -2622,7 +2622,7 @@
 		<link>http://localhost/tx-demos/i-max/home-page-builder/one-sided-3/</link>
 		<pubDate>Fri, 23 Jun 2017 17:01:19 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/one-sided-3.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/one-sided-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2638,7 +2638,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/one-sided-3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/one-sided-3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/one-sided-3.jpg]]></wp:meta_value>
@@ -2653,7 +2653,7 @@
 		<link>http://localhost/tx-demos/i-max/logo-green/</link>
 		<pubDate>Sat, 24 Jun 2017 05:08:22 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/logo-green.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/logo-green.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2669,7 +2669,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2017/06/logo-green.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2017/06/logo-green.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/logo-green.jpg]]></wp:meta_value>
@@ -2684,7 +2684,7 @@
 		<link>http://localhost/tx-demos/i-max/?attachment_id=1084</link>
 		<pubDate>Sat, 24 Jun 2017 05:41:33 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/sld1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/sld1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2700,7 +2700,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/sld1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/sld1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/sld1.jpg]]></wp:meta_value>
@@ -2715,7 +2715,7 @@
 		<link>http://localhost/tx-demos/i-max/?attachment_id=1085</link>
 		<pubDate>Sat, 24 Jun 2017 05:41:36 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/sld2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/sld2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2731,7 +2731,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/sld2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/sld2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/sld2.jpg]]></wp:meta_value>
@@ -2746,7 +2746,7 @@
 		<link>http://localhost/tx-demos/i-max/?attachment_id=1086</link>
 		<pubDate>Sat, 24 Jun 2017 05:41:40 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/sld3.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/sld3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2762,7 +2762,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/sld3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/sld3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/sld3.jpg]]></wp:meta_value>
@@ -2777,7 +2777,7 @@
 		<link>http://localhost/tx-demos/i-max/?attachment_id=1087</link>
 		<pubDate>Sat, 24 Jun 2017 05:41:45 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/sld4.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/sld4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2793,7 +2793,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/sld4.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/sld4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/sld4.jpg]]></wp:meta_value>
@@ -2808,7 +2808,7 @@
 		<link>http://localhost/tx-demos/i-max/?attachment_id=1088</link>
 		<pubDate>Sat, 24 Jun 2017 05:41:49 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/sld5.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/sld5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2824,7 +2824,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-max/wp-content/uploads/2015/02/sld5.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-max-demo/master/uploads/2015/02/sld5.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/sld5.jpg]]></wp:meta_value>
@@ -5903,7 +5903,7 @@ On clicking the "tx" button, the list of shortcodes will appear as popup, select
 		<wp:comment>
 			<wp:comment_id>90</wp:comment_id>
 			<wp:comment_author><![CDATA[Bhupendra Mandal]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[marsian.mcs@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[youremailid@gmail.com]]></wp:comment_author_email>
 			<wp:comment_author_url>http://www.templatesnext.in</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[182.69.213.78]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-08-22 12:33:14]]></wp:comment_date>
@@ -8808,7 +8808,7 @@ Message Body:
 
 --
 This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)
-marsian.mcs@gmail.com
+youremailid@gmail.com
 Reply-To: [your-email]
 
 0
@@ -8822,7 +8822,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)
 [your-email]
-Reply-To: marsian.mcs@gmail.com
+Reply-To: youremailid@gmail.com
 
 0
 0
@@ -8872,7 +8872,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:21:"marsian.mcs@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:21:"youremailid@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -8880,7 +8880,7 @@ This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.
 [your-message]
 
 --
-This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: marsian.mcs@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: youremailid@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -9610,7 +9610,7 @@ Message Body:
 
 --
 This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)
-marsian.mcs@gmail.com
+youremailid@gmail.com
 Reply-To: [your-email]
 
 
@@ -9624,7 +9624,7 @@ Message Body:
 --
 This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)
 [your-email]
-Reply-To: marsian.mcs@gmail.com
+Reply-To: youremailid@gmail.com
 
 
 
@@ -9685,7 +9685,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:21:"marsian.mcs@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:21:"youremailid@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -9693,7 +9693,7 @@ This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.
 [your-message]
 
 --
-This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: marsian.mcs@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on TemplatesNext (http://templatesnext.in/demo)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: youremailid@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
